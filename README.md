@@ -9,7 +9,7 @@ Debe contar con:
 * MySQL 5.7.25
 
 Antes de correr el proyecto crea el SCHEMA y la TABLA que se requiere,
-para ello en la carpeta resources encontras el script necesario; ejecuta cada query del script create_schema_and_table.sql.
+para ello en la carpeta resources encontrarás el script necesario; ejecuta cada query del script create_schema_and_table.sql.
 
 Una vez configurado el SCHEMA y la TABLA, corre el siguiente comando:
 ```
@@ -19,7 +19,7 @@ Esto descargara y compilará todas las dependencias que componen el proyecto.
 Una vez obtengas BUILD SUCCESS ya podras correrlo.
 
 ## Documentación
-Una vez que tengas el proyecto corriendo en el puerto 8080, dirigite a la
+Una vez que tengas el proyecto corriendo en el puerto 8080, dirígete a la
 siguiente url
 
 JsonDoc API [http://localhost:8080/jsondoc-ui.html#](http://localhost:8080/jsondoc-ui.html#).
